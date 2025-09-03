@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/974094ad-d70a-48e7-84cd-04b58c650df8" />
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/dfafc126-d864-4db5-a03b-27ec6b02d27f" />
 
 # Hi there 👋 I'm Ruiz  
 **Future Software Engineer**  
