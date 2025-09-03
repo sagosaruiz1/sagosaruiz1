@@ -1,16 +1,49 @@
-## Hi there 👋
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/974094ad-d70a-48e7-84cd-04b58c650df8" />
 
-<!--
-**sagosaruiz1/sagosaruiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Ruiz  
+**Future Software Engineer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me  
+- 🌱 Currently learning and improving my skills in **Python, HTML, CSS, and JavaScript and many other languages**  
+- 💡 Passionate about building clean and efficient web applications  
+- 🎯 Goal: To grow as a **software engineer** and contribute to impactful projects  
+- ⚡ Fun fact: I enjoy balancing creativity, physical activity, and learning  
+
+---
+
+## 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,electron,nodejs,python,c" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagosaruiz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagosaruiz1&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📂 Featured Projects  (COMING SOON)
+- 🔗 [Project 1](#) – Short description of what it does  
+- 🔗 [Project 2](#) – Short description of what it does  
+- 🔗 [Project 3](#) – Short description of what it does  
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/ruiz-sagosa-136041307" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ruizsagosa1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
