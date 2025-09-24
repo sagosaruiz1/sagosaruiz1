@@ -1,16 +1,16 @@
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/dfafc126-d864-4db5-a03b-27ec6b02d27f" />
 
 # Hi there 👋 I'm Ruiz  
-**Future Software Engineer**  
+**Aspiring Software Engineer**  
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 Student @ University of Science and Technology of Southern Philippines
-- 🌱 Currently learning and improving my skills in **Python, HTML, CSS, and JavaScript and many other languages**  
-- 💡 Passionate about building clean and efficient web applications  
+- 🎓 Student @ University of Science and Technology of Southern Philippines  
+- 🌱 Currently learning **Python, HTML, CSS, JavaScript, and more**  
+- 💡 Passionate about building **clean and efficient web applications**  
 - 🎯 Goal: To grow as a **software engineer** and contribute to impactful projects  
-- ⚡ Fun fact: I enjoy balancing creativity, physical activity, and learning  
+- ⚡ Fun fact: I enjoy balancing creativity, physical activity, and continuous learning  
 
 ---
 
@@ -24,15 +24,13 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagosaruiz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sagosaruiz1)](https://github.com/sagosaruiz1/github-readme-stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagosaruiz1&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
 </p>
-
 
 ---
 
-## 📂 Featured Projects  (COMING SOON)
--
+## 📂 Featured Projects  
+🚧 Coming soon... stay tuned! 🚧
 
 ---
 
