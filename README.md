@@ -29,6 +29,13 @@
 
 ---
 
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagosaruiz1&theme=tokyonight" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 ## 📂 Featured Projects  
 🚧 Coming soon... stay tuned! 🚧
 
