@@ -24,7 +24,8 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagosaruiz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=sagosaruiz1&theme=tokyonight" alt="GitHub Streak" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=sagosaruiz1)](https://git.io/streak-stats" alt="GitHub Streak" height="180em" />
+  
 </p>
 
 ---
