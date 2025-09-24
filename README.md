@@ -16,22 +16,16 @@
 
 ## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,electron,nodejs,python,cpp,godot" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,electron,nodejs,python,cpp,godot&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagosaruiz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagosaruiz1&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagosaruiz1&theme=tokyonight" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagosaruiz1&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagosaruiz1&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagosaruiz1&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
