@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagosaruiz1&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagosaruiz1&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Top Languages" height="180em" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagosaruiz1&theme=tokyo-night&bg_color=0d1117&hide_border=true&border-radius=5px" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagosaruiz1&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
