@@ -49,9 +49,9 @@ A web scraper that collects book data — titles, prices, ratings, and availabil
 
 ## 📊 GitHub stats
 
-![Ruiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagosaruiz1&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
+![Ruiz's GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=sagosaruiz1&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagosaruiz1&layout=compact&theme=default&hide_border=true&cache_seconds=1800)
+![Top Languages](https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sagosaruiz1&layout=compact&theme=default&hide_border=true)
 
 ---
 
